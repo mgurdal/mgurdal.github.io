@@ -1,3 +1,12 @@
+## Gnarly Game Studio
+<small><b> 03/2020</b></small>
+
+![gnarly](assets/images/gnarly.png)
+
+Gnarly is focused on building social based online mobile games with mass-market appeal.
+We want our games to be a good companion for people when they want to get away from the stress of everyday life.
+
+
 ## Metglobal
 <small><b> 08/2019 03/2020</b></small>
 
